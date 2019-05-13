@@ -1,5 +1,5 @@
 title: Status Page
-baseURL: ''
+baseURL: 'https://status.contz.com.br/'
 languageCode: en
 params:
   copyrightHolder: Contz
