@@ -7,7 +7,7 @@ params:
   description_footer: ''
   description_header: ''
   eventsPerPage: 10
-  logo: /images/clearstatus.svg
+  logo: 'https://contz.com.br/contz/images/contz_preto.png'
   meta_description: >-
     This status page provides updated information about our systems normal
     operation, incidents that may happen and their resolution.
