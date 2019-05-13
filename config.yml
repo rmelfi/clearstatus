@@ -1,19 +1,11 @@
 title: Contz Systems Status Page
+baseURL: 'https://status.contz.com.br'
 languageCode: en
 params:
   copyrightHolder: Contz
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  description_footer: >-
-    <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
-    software for all kind of sectors.
-  description_header: >-
-    Information about <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>example</a> systems operations.<br />Follow
-    us <a class='text-grey-darkest' title='Visit our page on Twitter'
-    href='https://www.twitter.com/example'>on Twitter</a> or subscribe to <a
-    class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
-    events.
+  description_footer: ''
+  description_header: ''
   eventsPerPage: 10
   logo: /images/clearstatus.svg
   meta_description: >-
@@ -21,9 +13,11 @@ params:
     operation, incidents that may happen and their resolution.
   shortDateFormat: '15:04 — Jan 2'
   systems:
-    - description: Our company public facing website
-      link: 'https://www.example.com/'
+    - description: ''
+      link: 'https://contz.com.br'
       name: Website
     - link: 'https://sandbox.contz.com.br'
       name: Sandbox
+    - link: 'http://dashboard.contz.com.br'
+      name: Dashboard
   timezoneString: ' UTC'
