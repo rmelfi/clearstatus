@@ -18,6 +18,6 @@ params:
       name: Website
     - link: 'https://sandbox.contz.com.br'
       name: Sandbox
-    - link: 'http://dashboard.contz.com.br'
+    - link: 'https://dashboard.contz.com.br'
       name: Dashboard
   timezoneString: ' UTC'
